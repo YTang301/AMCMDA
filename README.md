@@ -83,6 +83,7 @@ Imports necessary system-related modules and runs the overall prediction model.
 ##  Data Description
 
 The three dataset are derived from (http://cmbi.bjmu.edu.cn/hmdd) and includes:
+
 [HMDD v1.0]
 - 271 miRNAs
 - 137 diseases
@@ -110,7 +111,9 @@ For details, refer to our manuscript's **section 2.1 – 2.2**.
 We acknowledge and thank the following foundational works:
 
 [HMDD v1.0]DOI: 10.1371/journal.pone.0003420
+
 [HMDD v2.0]DOI: 10.1093/nar/gkt1023
+
 [HMDD v3.2]DOI: 10.1093/nar/gky1010
 
 
@@ -118,4 +121,4 @@ We acknowledge and thank the following foundational works:
 
 For any questions or suggestions:
 
-> Email**: tangyong_301@163.com (corresponding author)
+> Email**: tangyong_301AT163.com (corresponding author)
