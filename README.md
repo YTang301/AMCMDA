@@ -106,15 +106,15 @@ Integrated similarities:
 For details, refer to our manuscript's **section 2.1 – 2.2**.
 
 
-##  Citations
+## Citations
 
 We acknowledge and thank the following foundational works:
 
-[HMDD v1.0]DOI: 10.1371/journal.pone.0003420
+- [HMDD v1.0](https://doi.org/10.1371/journal.pone.0003420)
 
-[HMDD v2.0]DOI: 10.1093/nar/gkt1023
+- [HMDD v2.0](https://doi.org/10.1093/nar/gkt1023)
 
-[HMDD v3.2]DOI: 10.1093/nar/gky1010
+- [HMDD v3.2](https://doi.org/10.1093/nar/gky1010)
 
 
 ##  Contact
