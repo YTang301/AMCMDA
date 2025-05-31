@@ -82,7 +82,7 @@ Imports necessary system-related modules and runs the overall prediction model.
 
 ##  Data Description
 
-The three dataset are derived from (http://cmbi.bjmu.edu.cn/hmdd) and includes:
+The three dataset are derived from and includes:
 
 [HMDD v1.0]
 - 271 miRNAs
